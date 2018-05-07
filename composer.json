@@ -1,0 +1,9 @@
+{
+  "autoload": {
+    "classmap": ["FlyPHP/http/facade"],
+    "psr-4": {
+      "fly\\": "FlyPHP/",
+      "app\\": "app/"
+    }
+  }
+}

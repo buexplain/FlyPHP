@@ -1,0 +1,5 @@
+/.idea
+composer.lock
+/.git
+/.svn
+/public/.htaccess
